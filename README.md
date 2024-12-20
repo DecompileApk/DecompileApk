@@ -14,7 +14,8 @@
 9. Share APP to other APPs.
 10. Dark and Light theme switching.
 
-#### Welcome to download and use: [Google Play](https://play.google.com/store/apps/details?id=com.apktools.app.decompile)
+### [Show how to use video](https://www.youtube.com/embed/SrlOxpfUfvw)
+### [Google Play](https://play.google.com/store/apps/details?id=com.apktools.app.decompile)
 
 #### If you have any questions or suggestions, you can raise an issue on my github:
 #### If you think it is useful, please give me a 5-star rating, thank you very much!
